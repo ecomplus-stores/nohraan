@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".info-bar {\n    background-color: #CCB72E !important;\n}",
   "html_head": "",
   "html_body": ""
 }
