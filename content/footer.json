@@ -5,7 +5,7 @@
   },
   "links_1": {
     "list_pages": true,
-    "title": "Páginas",
+    "title": "",
     "list": []
   },
   "links_2": {
@@ -44,5 +44,5 @@
     "amex": true,
     "itau": false
   },
-  "credits": "creditos"
+  "credits": "Gestão do e-commerce por Grupo Roca (08.582.238/0001-84) / Nohraan Cosméticos (22.663.796/0001-03)"
 }
