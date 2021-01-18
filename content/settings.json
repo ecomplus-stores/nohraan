@@ -1,23 +1,23 @@
 {
-  "store_id": 1219,
-  "name": "nohraan",
   "domain": "nohraan.netlify.app",
-  "short_name": "nohraan",
-  "description": "nohraan",
-  "primary_color": "#222831",
-  "secondary_color": "#393e46",
-  "bg_color": "#ffffff",
+  "currency_symbol": "R$",
+  "primary_color": "#ccb72e",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
   },
-  "logo": "/img/uploads/logo.png",
-  "mini_logo": "",
-  "icon": "/img/icon.png",
-  "large_icon": "/img/large-icon.png",
-  "favicon": "/img/uploads/favicon.png",
+  "bg_color": "#ffffff",
+  "logo": "/img/uploads/logo-shop-corel-png.png",
+  "name": "Nohraan Shop",
+  "short_name": "Nohraan Shop",
   "lang": "pt_br",
   "currency": "BRL",
-  "currency_symbol": "R$",
-  "country_code": "BR"
+  "mini_logo": "",
+  "favicon": "/img/uploads/logo-shop-corel-png.png",
+  "country_code": "BR",
+  "secondary_color": "#393e46",
+  "icon": "/img/uploads/logo-shop-corel-png.png",
+  "store_id": 1219,
+  "description": "A Nohraan Shop é a loja virtual oficial da marca. Uma empresa criada para abrir as portas dos serviços da beleza com novos conceitos de qualidade, a melhor opção quando se pensa em alta performance de cosméticos. Botox Capilar, Hidratação, Brilho, Proteção Térmica, Linha Completa para o Homem e muito mais.",
+  "large_icon": "/img/uploads/logo-shop-corel-png.png"
 }
