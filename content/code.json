@@ -1,5 +1,5 @@
 {
-  "css": ".info-bar {\n    background-color: #CCB72E !important;\n}",
+  "css": ".info-bar {\n    background-color: #CCB72E !important;\n}\n\n// Esconder botão de cancelamento de pedido\n.order-info__toggle {\n    display: none !important;\n}",
   "html_head": "",
   "html_body": ""
 }
