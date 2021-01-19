@@ -5,14 +5,14 @@
   },
   "installments": {
     "show": true,
-    "text": "Até 10x sem juros"
+    "text": "Até 6x sem juros"
   },
   "exchange": {
-    "show": false,
-    "text": "Não gostou? A primeira troca é gratuita"
+    "show": true,
+    "text": "Direto da Indústria para sua casa!"
   },
   "promo": {
     "show": true,
-    "text": "5% Desconto no Boleto ou Pix"
+    "text": "5% Desconto no Boleto ou 10% no Pix"
   }
 }
