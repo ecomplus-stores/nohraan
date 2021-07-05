@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.7fb1adfc4450a387b7285321a27637c9.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.d6256e7531e4ceb1f8be82bd55cf84e2.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.43c2609d184b6be7252e63f5dedc51c3.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.b1472f96618021ebe912882956b7779b.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.9dc2c0c65c9886f7785a2813e75c248b.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Nohraan Shop",
+  "short_name": "Nohraan Shop",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A Nohraan Shop é a loja virtual oficial da marca. Uma empresa criada para abrir as portas dos serviços da beleza com novos conceitos de qualidade, a melhor opção quando se pensa em alta performance de cosméticos. Botox Capilar, Hidratação, Brilho, Proteção Térmica, Linha Completa para o Homem e muito mais.",
+  "background_color": "#ffffff",
+  "theme_color": "#ccb72e"
+}
